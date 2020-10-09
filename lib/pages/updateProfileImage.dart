@@ -78,7 +78,6 @@ class _UpdateProfileImageState extends State<UpdateProfileImage> {
                         height: 500.0,
                       ),
                     ),
-                    SizedBox(height: 80.0),
                     ButtonTheme(
                       height: 60.0,
                       minWidth: 1000.0,
