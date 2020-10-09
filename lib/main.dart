@@ -7,6 +7,7 @@ import 'package:myprofile_flutter_app/pages/updateBio.dart';
 import 'package:myprofile_flutter_app/pages/updateProfileImage.dart';
 
 void main()  => runApp(MaterialApp(
+  debugShowCheckedModeBanner: false,
   // initialRoute: '/receivingData',
   routes: {
     '/': (context) => Home(),
